@@ -1,2 +1,4 @@
-# blog
-my blog for study
+# Blog
+My blog for study
+
+## first
